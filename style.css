@@ -16,6 +16,10 @@ h1{
    color: lightblue;  
 }
 
+a{
+   color: white;  
+}
+
 table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
