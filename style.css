@@ -12,6 +12,10 @@ h1 small.page-header-small{
    color: white;
 }
 
+h1{
+   color: lightblue;  
+}
+
 table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
