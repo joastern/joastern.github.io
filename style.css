@@ -1,5 +1,6 @@
 body{
    background-image: url(../../images/purplesky.jpg);
+   opacity: 0.5;
 }
 
 div.page-header{
@@ -39,3 +40,9 @@ tr:nth-child(even) {
 div.well{
    background-color: lightblue;
 }
+
+ul.nav{
+   background-color: lightblue;
+}
+
+
