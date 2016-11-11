@@ -28,6 +28,7 @@ table {
 }
 
 td, th {
+    color: #dddddd;
     border: 1px solid white;
     text-align: left;
     padding: 8px;
