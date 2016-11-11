@@ -29,7 +29,7 @@ table {
 
 td, th {
     color: #dddddd;
-    border: 1px solid white;
+    border: 1px solid #dddddd;
     text-align: left;
     padding: 8px;
 }
