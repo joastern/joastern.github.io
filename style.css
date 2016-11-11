@@ -3,9 +3,6 @@ body{
    opacity: 0.8;
 }
 
-li.active, li.color{
-   color: #dddddd;
-}
 div.page-header{
    margin-left: 20px;  
    color: white;
