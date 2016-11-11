@@ -1,6 +1,6 @@
 body{
    background-image: url(../../images/purplesky.jpg);
-   opacity: 0.7;
+   opacity: 0.8;
 }
 
 div.page-header{
@@ -14,7 +14,7 @@ h1 small.page-header-small{
 }
 
 h1{
-   color: lightblue;  
+   color: #3399ff;  
 }
 
 a{
@@ -38,11 +38,11 @@ tr:nth-child(even) {
 }
 
 div.well{
-   background-color: lightblue;
+   background-color: #3399ff;
 }
 
 ul.nav{
-   background-color: lightblue;
+   background-color: #3399ff;
 }
 
 
